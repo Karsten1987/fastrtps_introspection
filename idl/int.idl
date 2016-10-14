@@ -1,0 +1,4 @@
+struct Int32
+{
+  unsigned long data;
+};
